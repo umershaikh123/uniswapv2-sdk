@@ -11,11 +11,7 @@ In-depth documentation on this SDK is available at [uniswap.org](https://uniswap
 
 To run the tests, follow these steps. You must have at least node v10 and [yarn](https://yarnpkg.com/) installed.
 
-First clone the repository:
 
-```sh
-git clone https://github.com/Uniswap/uniswap-sdk.git
-```
 
 Move into the uniswap-sdk working directory
 
