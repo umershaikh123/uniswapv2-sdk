@@ -1,7 +1,7 @@
 {
-  "name": "@uswap/sdk_v2_polygonzkevm_cardona",
+  "name": "uswap_sdk_v2_polygonzkevm_cardona",
   "license": "MIT",
-  "version": "3.0.2",
+  "version": "1.0.0",
   "description": "🛠 An v2 SDK for building applications on top of Uniswap. which also supports polygonzkevm_cardona testnet",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
