@@ -21,6 +21,7 @@
     "test": "tsdx test",
     "prepublishOnly": "tsdx build"
   },
+  "bin": "./src/index.ts",
   "dependencies": {
     "@uniswap/v2-core": "^1.0.0",
     "big.js": "^5.2.2",
